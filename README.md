@@ -23,11 +23,11 @@ Node.js
 
 ### 参数说明
 
-```js```
+```js
 @param {string} filePath - txt文件的路径。
 @param {string} targetChar - 要查找形近字的目标汉字。
 @param {number} [numChars=10] - 指定返回的形近字数目，默认为10个。
-```js```
+```
 
 # 后期计划
 尝试实现全部功能的JavaScript版本
